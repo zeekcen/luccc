@@ -9,6 +9,8 @@
   ================================================== -->
 	<meta charset="utf-8" />
 	<title><?php bloginfo('name'); ?>  <?php wp_title(); ?></title>
+	<meta name="Keywords" content="立奥卫浴 壁挂马桶 隐藏式马桶 蹲便器水箱整套 蹲便器 卫浴 立奥工厂" />
+	<meta name="Description" content="潮州立奥卫浴工厂于1999年专注于隐蔽式马桶、蹲便器、小便斗等高端卫浴的钻研。为消费者打造品质与工艺结合的精品卫浴产品，以创新理念缔造新一代东方风格的时尚家居。" />
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

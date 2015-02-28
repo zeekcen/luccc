@@ -437,7 +437,7 @@ div.gdl-right-sidebar{ float: left; }
 div.gdl-page-item{ float: right; }
 div.gdl-page-float-left{ float: left; }
 
-div.custom-sidebar { border-color: inherit; margin-bottom: 40px; clear: both; }
+div.custom-sidebar { border-color: inherit; /*margin-bottom: 40px;*/ clear: both; }
 div.custom-sidebar div { border-color: inherit; }
 div.custom-sidebar ul{ list-style: none; margin-left: 0px; border-color: inherit; }	
 div.custom-sidebar ul li{ 
@@ -548,7 +548,7 @@ div.footer-wrapper .container{ background: transparent;
 	-webkit-box-shadow: none; 
 	box-shadow: none; }
 div.footer-wrapper-gimmick{ height: 3px; }
-div.footer-widget-wrapper{ padding-top: 35px; }
+div.footer-widget-wrapper{ /*padding-top: 35px;*/ }
 div.footer-widget-wrapper .custom-sidebar{ }
 div.footer-widget-wrapper .custom-sidebar-title{ font-size: 16px; margin-bottom: 10px;}
 
